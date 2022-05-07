@@ -23,7 +23,7 @@
 </div>
 
 <h2>🖼️ Demonstração da aplicação</h2>
-<img margin-bottom="20px" src="/assets/img/readme.PNG"">
+<img margin-bottom="20px" src="/assets/img/readme1.PNG"">
 <img margin-bottom="20px" src="/assets/img/readme2.PNG"">
 <h4  style="display: inline_block">Visualização do site :</h4><a style="display: inline_block" target="blank" href="">Preview no Netlify</a>
 
